@@ -1,0 +1,19 @@
+{
+  "uuid": "5dfcd69c-4df1-48ef-a512-5cadd82769bc",
+  "items": [
+    {
+      "name": "Dodatkowe serce",
+      "minecraft_id": "minecraft:red_dye",
+      "max_price": 449,
+      "lore_price_prefix": "Koszt: $"
+    }
+  ],
+  "gui_slots": {
+    "filter_slot": 12,
+    "sort_slot": 45,
+    "search_slots": [10, 11, 12, 13, 14, 15],
+    "confirm_buy_slot": 49,
+    "refresh_slot": 45
+  },
+  "log_to_file": true
+}
