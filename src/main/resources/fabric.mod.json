@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "heartsniperfabric",
+  "version": "1.0.0",
+  "name": "HeartSniperFabric",
+  "description": "Automatyczny snajper serc i innych itemów na rynku /ah.",
+  "authors": [
+    "johnnytrapotti"
+  ],
+  "contact": {
+    "sources": "https://github.com/johnnytrapotti/HeartSniperFabric"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.johnnytrapotti.heartsnipermod.HeartSniperMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.23",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
